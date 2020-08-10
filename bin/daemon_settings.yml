@@ -1,0 +1,13 @@
+# Settings
+api: 'localhost:5280'
+db_url: 'postgresql:///lbry'
+workers: 28
+console: 'advanced'
+no_spv_address_filters: true
+
+# Directories
+lbrycrd_dir: './lbrycrd'
+
+# Credentials
+lbrycrd_rpc_user: 'lbryrpc'
+lbrycrd-rpc-pass: 'add_password_here'
